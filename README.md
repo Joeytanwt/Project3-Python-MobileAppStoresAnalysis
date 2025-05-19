@@ -6,7 +6,7 @@ This data analysis project aims to **identify profitable app profiles** by exami
 ### **Key Questions Answered**  
 1. What is the market share of each **app genre** in both stores
 2. Which **app genres** have the most users in each store?  
-3. What are the **top-rated apps** based on user count
+3. What are the **most-used apps** based on user count
 
 ## **Data Sources**  
 - **Apple App Store Dataset**: https://www.kaggle.com/datasets/ysf12ff/app-store-dataset  

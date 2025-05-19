@@ -1,4 +1,3 @@
-# PortfolioProject3_AppStoresAnalysis
 # **App Store Profitability Analysis**  
 
 ## **Project Overview**  

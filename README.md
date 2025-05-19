@@ -3,7 +3,7 @@
 ## **Project Overview**  
 This data analysis project aims to **identify profitable app profiles** by examining trends in the **Apple App Store** and **Google Play Store**. The goal is to help developers and businesses understand which types of apps have the highest demand, user engagement, and revenue potential.  
 
-### **Key Questions Answered**  
+### **Key Findings**  
 1. Market share of each **app genre** in both stores
 2. **App genres** with the most users in each store  
 3. **Most-used apps** based on user count
